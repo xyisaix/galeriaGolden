@@ -1776,10 +1776,10 @@
 			}
 
 			.gallery .image:hover img {
-				-moz-transform: scale(1.025);
-				-webkit-transform: scale(1.025);
-				-ms-transform: scale(1.025);
-				transform: scale(1.025);
+				-moz-transform: scale(1.225);
+				-webkit-transform: scale(1.225);
+				-ms-transform: scale(1.225);
+				transform: scale(1.225);
 			}
 
 			.gallery .image:hover:after {
@@ -3483,7 +3483,7 @@
 		-ms-flex-shrink: 1;
 		flex-shrink: 1;
 		height: 100%;
-		padding: 5rem;
+		padding: 3rem;
 	}
 
 		@media screen and (orientation: portrait) {
